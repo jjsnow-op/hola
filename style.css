@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: bold;
+    font-size: 22px;
+}
+
+.container{
+    background-color: black;
+    width: 390px;
+    height:2200px;
+    
+}
+
+.mercadolibre{
+    width: 60px;
+    height: 60px;
+ 
+}
+
+
+.img{
+   position: relative;
+    width: 120px;
+    height: 120px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
+
+
+.vendiste{
+    margin:10px;
+    color:#5B8A54;
+    position: relative;
+    top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detalle{
+    color:white;
+    top:200px;
+    width: 300px;
+    height: 150px;
+    position: relative;
+    margin:20px;
+}
+
+.nombre-producto{
+    color:white;
+    position: relative;
+    top: 100px;
+    margin: 20px;
+}
+
+
+
+.foto{
+    border-radius: 10px;
+    right: 5px;
+    padding: 0px;
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    top:60px;
+    width: 350px;
+    height: 400px;
+}
+
+.pago{
+    position: relative;
+    color:white;
+    top:150px;
+    margin: 20px;
+}
+
+.santander{
+    margin:5px;
+    top:40px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+.datos{
+    margin: 20px;
+    width: 350px;
+    height: 150px;
+    font-size: 16px;
+    position: relative;
+    top:30px;
+    color:white;
+}
+
+.datos-comprador{
+    position: relative;
+    right: 20px;
+    width: 390px;
+    height: 150px;
+    font-size: 16px;
+    margin-top: 40px;
+    margin:40px;
+    color:white;
+}
+
+.enviar{
+    position: relative;
+    bottom: 60px;
+    font-size: 16px;
+    text-decoration: none;
+    margin:20px;
+}
+
+.pais{
+    margin:20px;
+    position: relative;
+    bottom: 40px;
+    font-size: 14px;
+    color:#787670;
+}
+
+.como-info{
+    margin:20px;
+    font-size: 16px;
+    color:#787670;
+}
+
+.tabla{
+    margin:20px;
+    color:white;
+}
+
+tr{
+    width: 25%;
+}
+td{
+    width: 25%;
+}
+
+
+
+hr{
+    height:0 px;
+    width: 350px;
+    border: 1px solid #C76060;
+}
